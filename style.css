@@ -1,0 +1,46 @@
+.body {
+    background-color: #F9F9F9;
+}
+
+.flex-container {
+    display: flex;
+  }
+
+.flex-left {
+    justify-content: left;
+}
+
+.flex-center {
+    justify-content: center;
+}
+
+.logo {
+    padding: 30px 0 10px 0;
+}
+
+.logoimg {
+    width: 280px;
+    padding: 0 10px 0 0;
+}
+
+.links {
+    font-family: raleway;
+    text-decoration: none;
+    color: #3A3A2F;
+    padding: 0px 10px 20px 10px;
+    font-size: 12px;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: #be5918;
+}
+
+.nursery {
+    width: 550px;
+}
+
+.instagram {
+    width: 20px;
+    padding: 20px 0;
+}
